@@ -1,0 +1,26 @@
+.hero-body {
+  background-image: url(https://farm3.staticflickr.com/2840/33942486610_e0c80a7999_o_d.jpg);
+  background-position: center;
+  background-size: cover;
+  background-repeat: no-repeat;
+  height: 700px;
+  background-color: black;
+}
+
+h1.title {
+  margin-top: 145px;
+}
+
+h3.has-text-centered {
+  color: #363636;
+  font-size: 2rem;
+  font-weight: 600;
+  line-height: 1.125;
+  margin-bottom: 1.5rem;
+}
+
+.articles {
+  margin: 5rem 0;
+  margin-top: 5rem;
+  margin-top: -200px;
+}
